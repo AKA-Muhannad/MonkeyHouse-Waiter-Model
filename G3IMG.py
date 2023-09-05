@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 chat_msg = []
 
