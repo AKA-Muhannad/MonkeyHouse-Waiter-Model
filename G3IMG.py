@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = ""
+openai.api_key = "Set your API key here"
 
 chat_msg = []
 
